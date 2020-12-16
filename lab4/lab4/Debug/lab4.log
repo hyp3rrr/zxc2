@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\smyle\desktop\логика\lab5\lab5\source.cpp(36): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab5.vcxproj -> C:\Users\smyle\Desktop\логика\lab5\Debug\lab5.exe
